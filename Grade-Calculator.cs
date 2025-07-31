@@ -31,7 +31,7 @@ class GradeCalculator
             }
             else
             {
-                Console.WriteLine("Invalid input. Please enter a numeric value (e.g., 75 or 88.5).");
+                Console.WriteLine("Invalid input. Please enter a numeric value! ");
             }
         }
     }
